@@ -1,0 +1,13 @@
+.array-bar{
+    
+    
+    background-color: rgb(66, 127, 180);
+    display: inline;
+    
+}
+
+.array-container{
+    display: flex;
+    justify-content: center;
+
+}
